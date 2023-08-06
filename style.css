@@ -151,9 +151,9 @@ textarea {
 
 .h_menu-btn {
   display: none;
-  text-transform: uppercase;
-  width: 30px;
   height: 30px;
+  width: 30px;
+  text-transform: uppercase;
   cursor: pointer;
 }
 
